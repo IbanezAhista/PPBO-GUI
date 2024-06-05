@@ -86,7 +86,8 @@ public class SIAGUI extends JFrame {
         });
         mainPanel.add(buttonPanel, BorderLayout.SOUTH);
 
-
+        //Hai, ini komentar
+        //Ini komentar juga
         add(mainPanel);
         setVisible(true); // Pastikan di bawah
     }
